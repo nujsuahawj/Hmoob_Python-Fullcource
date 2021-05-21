@@ -1,0 +1,15 @@
+import methodmodu as t
+first_nujsua =t.nujsua('moto',3)
+first_nujsua.add_anmo(2)
+first_nujsua.fire_anmo()
+first_nujsua.fire_anmo()
+first_nujsua.fire_anmo()
+#first_nujsua.anmo +=2
+#first_nujsua.name +=('motogp')
+#print(first_nujsua.name)
+first_nujsua.add_anmo(4)
+print(first_nujsua.anmo)
+#secon_nujsua=nujsua('fone',4)
+#secon_nujsua.add_anmo(3)
+#print(secon_nujsua.name) 
+#print(secon_nujsua.anmo)       
